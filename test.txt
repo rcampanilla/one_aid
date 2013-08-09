@@ -1,9 +1,5 @@
 This is a test from branch.
-<<<<<<< HEAD
 this is in between
 Will merge this to master.
-=======
 This is it.
-Will merge this to master.
 Last.
->>>>>>> origin/dev1
